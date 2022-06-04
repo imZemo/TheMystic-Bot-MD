@@ -1,35 +1,35 @@
 let media = './Menu2.jpg'
 let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
-*Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The Shadow Borkers - Bot*
+*Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia*
 
 *➤ Grupos oficiales del Bot:*
-*1.-* https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ
+*1.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LDJ
 
-*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
+*2.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F
+*3.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC
+*4.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*5.-* https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb
+*5.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*6.-* https://chat.whatsapp.com/GvrLSUSzVuT9P17CKfdxDa
+*6.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*7.-* https://chat.whatsapp.com/EpzuymKm6lG08k6J2Dwx7F
+*7.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*8.-* https://chat.whatsapp.com/IW12dLVoyWGHreGpX7rQIw
+*8.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*9.-* https://chat.whatsapp.com/Ef89aIuOLeD3Fa2sYmKwp7
+*9.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*10.-* https://chat.whatsapp.com/C2WYb1hiiijCI13QSUZLM9
+*10.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*11.-* https://chat.whatsapp.com/GKdDtQKWP5LCgpbzucz6kt
+*11.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*12.-* https://chat.whatsapp.com/DZA9djOzBn51ZpsCBj6aAg
+*12.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*13.-* https://chat.whatsapp.com/EIczvnvVZtTKRgxEbWtizv
+*13.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
-*14.-* https://chat.whatsapp.com/IR0NQSDFD6UBMT5q30QIFt
+*14.-* https://chat.whatsapp.com/Bt1sRtyLup70KIpMWHI8LD
 
 *15.-* https://chat.whatsapp.com/CMd00ZYfwXZHEoEIswHpv3
 `.trim(), wm, media, [['𝙸𝚁 𝙰𝙻 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '.menu']], m)
