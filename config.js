@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50575008120', '🤖 Mystic - Bot 🤖', true],
-  ['17722386341']
+  ['51917611323', '👑 Botsito - Creador 👑', true],
+  ['51921909260', '🤖 Botsito - Owner  🤖', true],
+  ['51933462225']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -61,10 +61,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨★'
+global.igfg = '★𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
